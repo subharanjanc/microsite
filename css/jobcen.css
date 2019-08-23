@@ -1,0 +1,76 @@
+/* this is CSS file */ 
+body
+{
+    
+    margin: 0 auto;
+    background-color: snow;
+    color: green;
+    font-weight: bold;
+    font-family: 'Dosis', sans-serif;
+    font-size: 12px;
+    font-style: italic;
+    background-image: url('../image/backimg3.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: repeat ;
+    
+}
+
+.job_info
+{   
+    background-color: rgba(238, 196, 9, 0.4);
+    
+    border-style: solid solid solid solid;
+    border-width: 0px;
+    
+    width: 550px;
+    height: 550px;
+    /*margin: 20px auto ;*/
+    /*padding: 5px 5px 5px 5px;*/
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 2%;
+    
+    
+
+ 
+}
+
+
+/* these are for doing image position */ 
+.flowers1
+{   
+    
+   position: absolute;
+   top: 180px;
+   right: 200px;
+   width: 200px;
+   height: 100px;
+
+}
+.flowers2
+{   
+    
+   position: absolute;
+   top: 310px;
+   right: 200px;
+   width: 200px;
+   height: 100px;
+
+}
+/* these are for text size */
+h2
+{
+color: red;
+border: none;
+font-size: 30px;
+font-style: italic;
+
+}
+h1
+{
+color: red;
+border: none;
+font-size: 40px;
+font-style: italic ;
+}
